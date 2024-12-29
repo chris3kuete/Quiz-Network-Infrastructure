@@ -134,11 +134,11 @@ let questions = [
     {
         numb: 13,
         question: "Why is it important to use plenum-rated cabling in the area above the ceiling tile ?",
-        answer: "Because that area of the house is usually hot so you need a cable suitable for those temperatures",
+        answer: "Because it is coated with a flame-resistant jacket and produces less smoke than regular cables coated with PVC",
         options: [
             "Because they are very light",
             "Because of it's max length",
-            "Because that area of the house is usually hot so you need a cable suitable for those temperatures",
+            "Because it is coated with a flame-resistant jacket and produces less smoke than regular cables coated with PVC",
             "Because of their weight"
         ]
     },
